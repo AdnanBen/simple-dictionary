@@ -40,7 +40,7 @@ dictionary.load();
 ```
 
 Format within file should be:  
-<word>:<word>\n
+\<word\>:\<word\>\n
 
 To save dictionary changes to file
 
